@@ -1,0 +1,9 @@
+{
+  "name": "js",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "leaflet": "^1.8.0",
+    "turf": "^3.0.14"
+  }
+}
